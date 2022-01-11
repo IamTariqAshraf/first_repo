@@ -1,1 +1,2 @@
 Read me all
+Git 101 sesssion
